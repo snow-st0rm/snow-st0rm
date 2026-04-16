@@ -39,3 +39,13 @@
 <h2 align="center">✦ NOTES / EXTRA ✦</h2>
 <p align="center">I occasionally hide repositories as my skills improve. <br>
   Older or experimental projects <em>may be archived</em> over time.</p>
+
+<h3 align="center">✦ FIND ME ✦</h3>
+- <b>Discord :</b> @snowst0rm
+- <b>Twitter :</b> @_snowst0rm
+- <b>Twitch :</b> @xeraphim_u03
+- <b>YouTube :</b> @techn0verload
+- <b>TikTok :</b> @s1llyalb1no
+- <b>ToyHou.se :</b> @snowst0rm
+
+<p align="center"> > <b>Best contact :</b> Discord </p>

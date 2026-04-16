@@ -1,4 +1,4 @@
-<img align="center" src="/img/banner.png" width="900px"/>
+<img align="center" src="/img/banner.png" width="950px"/>
 
 ### About Me
 

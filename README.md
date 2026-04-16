@@ -52,7 +52,7 @@
 
 <h3 align="center">✦ MORE INFO ✦</h3>
 <p align="center">
-  <a href="[YOUR_WEBSITE_LINK](https://sh1rohebi.42web.io/)">
-    <img src="/img/ICON_Ruby.png"/> My Own Website
+  <a href="https://sh1rohebi.42web.io/">
+    <img src="/img/ICON_Ruby.png" width="20"/> My Own Website
   </a>
 </p>

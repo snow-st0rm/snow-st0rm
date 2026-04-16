@@ -1,4 +1,12 @@
-## Hi there 👋
+<img align="center" src="/img/namecardsieyaya.png" width="200px"/>
+
+### About Me
+
+<img align="right" src="YOUR_IMAGE_URL" width="180"/>
+
+- text
+- text
+
 
 <!--
 **snow-st0rm/snow-st0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,6 @@
 
 <img align="right" src="/img/character.png" width="500"/>
 
-- text
-- text
 
 
 <!--

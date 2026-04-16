@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">✦ ABOUT ME ✦</h2>
-<img align="right" src="/img/character.png" width="500"/>
+<img align="right" src="/img/character.png" width="450"/>
 
 <b>Name :</b> Caelum Shiro  
 <b>Pronouns :</b> It/Its • He/Him  

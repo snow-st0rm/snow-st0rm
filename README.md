@@ -1,8 +1,8 @@
-<img align="center" src="/img/namecardsieyaya.png" width="200px"/>
+<img align="center" src="/img/banner.png" width="200px"/>
 
 ### About Me
 
-<img align="right" src="YOUR_IMAGE_URL" width="180"/>
+<img align="right" src="/img/" width="180"/>
 
 - text
 - text

@@ -1,8 +1,8 @@
-<img align="center" src="/img/banner.png" width="200px"/>
+<img align="center" src="/img/banner.png" width="1000px"/>
 
 ### About Me
 
-<img align="right" src="/img/" width="180"/>
+<img align="right" src="/img/character.png" width="180"/>
 
 - text
 - text

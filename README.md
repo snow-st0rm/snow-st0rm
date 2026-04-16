@@ -9,8 +9,8 @@
   </q>
 </p>
 
-<h3 align="center">✦ ABOUT ME ✦</h3>
 <img align="right" src="/img/character.png" width="500"/>
+<h3 align="center">✦ ABOUT ME ✦</h3>
 
 <b>Name :</b> Caelum Shiro  
 <b>Pronouns :</b> It/Its • He/Him  

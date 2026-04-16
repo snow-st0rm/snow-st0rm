@@ -37,5 +37,5 @@
 - Cybersecurity (CISCO basics)
 
 <h2 align="center">✦ NOTES / EXTRA ✦</h2>
-<p>I occasionally hide repositories as my skills improve.</p>
-<p>Older or experimental projects <em>may be archived</em> over time.</p>
+<p align="center">I occasionally hide repositories as my skills improve. <br>
+  Older or experimental projects <em>may be archived</em> over time.</p>

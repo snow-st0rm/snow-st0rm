@@ -21,20 +21,20 @@
 
 <h3 align="center">✦ SKILLS ✦</h3>
 <strong> Programming : </strong> 
-- JavaScript ♥
-- Kotlin / Java
-- C# / C++ / C
-- PHP
-- Pseudocode
+- JavaScript ♥ <br>
+- Kotlin / Java <br>
+- C# / C++ / C <br>
+- PHP <br>
+- Pseudocode <br>
 
 <strong> Other : </strong> 
-- Digital art
-- Creative writing
-- UI design
-- Video editing (basic)
-- Animation (basic)
-- 3D modeling (basic)
-- Cybersecurity (CISCO basics)
+- Digital art <br>
+- Creative writing <br>
+- UI design <br>
+- Video editing (basic) <br>
+- Animation (basic) <br>
+- 3D modeling (basic) <br>
+- Cybersecurity (CISCO basics) <br>
 
 <h2 align="center">✦ NOTES / EXTRA ✦</h2>
 <p align="center">I occasionally hide repositories as my skills improve. <br>

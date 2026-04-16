@@ -1,22 +1,20 @@
-<img align="center" src="/img/banner.png" width="950px"/>
+<p align="center">
+  <img src="/img/banner.png" width="100%" />
+</p>
 
 <h1 align="center">⧼ SNOWST0RM ⧽</h1>
+<p align="center">
+  <q>
+    <i>And the universe said I Love You. Because You are Love.</i>
+  </q>
+</p>
 
+<h3 align="center">✦ ABOUT ME ✦</h3>
 <img align="right" src="/img/character.png" width="500"/>
 
+<b>Name :</b> Caelum Shiro  
+<b>Pronouns :</b> It/Its • He/Him  
 
-
-<!--
-**snow-st0rm/snow-st0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong> Languages : </strong> 
+- Spanish (native)  
+- English (advanced)  

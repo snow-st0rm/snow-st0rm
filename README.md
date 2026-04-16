@@ -1,6 +1,6 @@
 <img align="center" src="/img/banner.png" width="950px"/>
 
-<h1 text-align="center">SNOWST0RM</h1>
+<h1 align="center">SNOWST0RM</h1>
 
 <img align="right" src="/img/character.png" width="180"/>
 

@@ -53,6 +53,6 @@
 <h3 align="center">✦ MORE INFO ✦</h3>
 <p align="center">
   <a href="https://sh1rohebi.42web.io/">
-    <img src="/img/WebsiteYay.webp"/>
+    <img src="/img/websiteLINK.gif"/>
   </a>
 </p>

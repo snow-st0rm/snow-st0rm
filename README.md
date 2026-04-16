@@ -9,8 +9,8 @@
   </q>
 </p>
 
+<h2 align="center">✦ ABOUT ME ✦</h2>
 <img align="right" src="/img/character.png" width="500"/>
-<h3 align="center">✦ ABOUT ME ✦</h3>
 
 <b>Name :</b> Caelum Shiro  
 <b>Pronouns :</b> It/Its • He/Him  
@@ -18,3 +18,20 @@
 <strong> Languages : </strong> 
 - Spanish (native)  
 - English (advanced)  
+
+<h3 align="center">✦ SKILLS ✦</h3>
+<strong> Programming : </strong> 
+- JavaScript ♥
+- Kotlin / Java
+- C# / C++ / C
+- PHP
+- Pseudocode
+
+<strong> Other : </strong> 
+- Digital art
+- Creative writing
+- UI design
+- Video editing (basic)
+- Animation (basic)
+- 3D modeling (basic)
+- Cybersecurity (CISCO basics)

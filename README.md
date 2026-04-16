@@ -25,9 +25,9 @@
 - Kotlin / Java <br>
 - C# / C++ / C <br>
 - PHP <br>
-- Pseudocode <br>
+- Pseudocode <br> <br>
 
-<strong> Other : </strong> 
+<strong> Other : </strong> <br>
 - Digital art <br>
 - Creative writing <br>
 - UI design <br>

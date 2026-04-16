@@ -41,10 +41,18 @@
   Older or experimental projects <em>may be archived</em> over time.</p>
 
 <h3 align="center">✦ FIND ME ✦</h3>
-<p align="center">- <b>Discord :</b> @snowst0rm <br>
-- <b>Twitter :</b> @_snowst0rm <br>
-- <b>Twitch :</b> @xeraphim_u03 <br>
-- <b>YouTube :</b> @techn0verload <br>
-- <b>TikTok :</b> @s1llyalb1no <br>
-- <b>ToyHou.se :</b> @snowst0rm <br><br>
-> <b>Best contact :</b> Discord </p>
+<p align="center">
+  <b>Discord :</b> @snowst0rm <br>
+  <b>Twitter :</b> @_snowst0rm <br>
+  <b>Twitch :</b> @xeraphim_u03 <br>
+  <b>YouTube :</b> @techn0verload <br>
+  <b>TikTok :</b> @s1llyalb1no <br>
+  <b>ToyHou.se :</b> @snowst0rm <br><br>
+  > <b>Best contact :</b> Discord </p>
+
+<h3 align="center">✦ MORE INFO ✦</h3>
+<p align="center">
+  <a href="[YOUR_WEBSITE_LINK](https://sh1rohebi.42web.io/)">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge"/>
+  </a>
+</p>

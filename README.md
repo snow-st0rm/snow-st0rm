@@ -41,11 +41,11 @@
   Older or experimental projects <em>may be archived</em> over time.</p>
 
 <h3 align="center">✦ FIND ME ✦</h3>
-- <b>Discord :</b> @snowst0rm
-- <b>Twitter :</b> @_snowst0rm
-- <b>Twitch :</b> @xeraphim_u03
-- <b>YouTube :</b> @techn0verload
-- <b>TikTok :</b> @s1llyalb1no
-- <b>ToyHou.se :</b> @snowst0rm
+- <b>Discord :</b> @snowst0rm <br>
+- <b>Twitter :</b> @_snowst0rm <br>
+- <b>Twitch :</b> @xeraphim_u03 <br>
+- <b>YouTube :</b> @techn0verload <br>
+- <b>TikTok :</b> @s1llyalb1no <br>
+- <b>ToyHou.se :</b> @snowst0rm <br>
 
 <p align="center"> > <b>Best contact :</b> Discord </p>

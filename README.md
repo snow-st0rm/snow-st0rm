@@ -53,6 +53,6 @@
 <h3 align="center">✦ MORE INFO ✦</h3>
 <p align="center">
   <a href="[YOUR_WEBSITE_LINK](https://sh1rohebi.42web.io/)">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge"/>
+    <img src="/img/ICON_Ruby.png"/> My Own Website
   </a>
 </p>

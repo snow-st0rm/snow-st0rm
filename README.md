@@ -20,7 +20,7 @@
 - English (advanced)  
 
 <h3 align="center">✦ SKILLS ✦</h3>
-<strong> Programming : </strong> 
+<strong> Programming : </strong>  <br>
 - JavaScript ♥ <br>
 - Kotlin / Java <br>
 - C# / C++ / C <br>

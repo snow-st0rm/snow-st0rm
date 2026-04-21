@@ -42,13 +42,13 @@
 
 <h3 align="center">✦ FIND ME ✦</h3>
 <p align="center">
+  <b>LinkedIn :</b> @snowst0rm <br>
   <b>Discord :</b> @snowst0rm <br>
   <b>Twitter :</b> @_snowst0rm <br>
   <b>Twitch :</b> @xeraphim_u03 <br>
   <b>YouTube :</b> @techn0verload <br>
-  <b>TikTok :</b> @s1llyalb1no <br>
   <b>ToyHou.se :</b> @snowst0rm <br><br>
-  > <b>Best contact :</b> Discord </p>
+  > <b>Best contact :</b> LinkedIn, Discord, Email </p>
 
 <h3 align="center">✦ MORE INFO ✦</h3>
 <p align="center">
